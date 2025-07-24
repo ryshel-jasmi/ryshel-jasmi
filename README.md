@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ryshel+Jasmi+DSouza;A+3rd-Year+CSE+Student;&color=#5B7DB1"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ryshel+Jasmi+DSouza;A+4th-Year+CSE+Student;&color=#5B7DB1"/>
 </h1>
 
 <h3 align="center">
@@ -13,13 +13,13 @@
 <h3>🌟 About Me:</h3>
 
 - 💻 **Frontend Development**:  
-  Crafting responsive and user-friendly interfaces with **React** & **Tailwind CSS**.  
+  Crafting responsive and user-friendly interfaces.  
 
 - ⚙️ **Backend Development**:  
-  Building scalable APIs and managing workflows with **PHP** and **Strapi**.  
+  Building scalable APIs and managing workflows.  
 
 - 🧠 **AI Enthusiast**:  
-  Exploring machine learning and developing predictive models using **TensorFlow**.  
+  Exploring machine learning and developing predictive models.  
 
 - 🎨 **UI/UX Design**:  
   Designing minimalistic, user-centered experiences.  
